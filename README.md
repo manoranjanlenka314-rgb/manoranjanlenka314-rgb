@@ -87,6 +87,16 @@ Along with strong technical skills, I bring **clear communication**, a collabora
 - Strong Communication Skills
 
 ---
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/manoranjanlenka314-rgb/manoranjanlenka314-rgb/output/github-snake-dark.svg" 
+       alt="GitHub Snake Animation" 
+       width="100%" />
+
+</div>
+
+
+---
 
 ## 🧪 Featured Projects (Sample Layout)
 
@@ -98,3 +108,4 @@ Description: Authentication, CRUD operations, clean UI & backend logic
 📌 Project 2: .NET MVC Business App
 Tech: C# | ADO.NET | ASP.NET MVC
 Description: Data-driven app with structured architecture
+
